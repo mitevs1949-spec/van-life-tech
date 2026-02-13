@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://van-life-tech.sproutern.com/sitemap.xml
+
+# Regional Targets
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
